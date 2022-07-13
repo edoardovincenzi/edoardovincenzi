@@ -1,4 +1,6 @@
 ### Hi there 👋
+🤔 My challenge?
+🌱 Every day become a better version of myself. 
 
 <!--
 **edoardovincenzi/edoardovincenzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
