@@ -1,7 +1,4 @@
-# Hello developer 👋
-### 🤔 My challenge?
-
-🌱 Every day become a better version of myself. 
+I am a software developer with almost 5 years of experience, having worked in both front-end and back-end. This experience has allowed me to gain a comprehensive understanding of software development. I strongly believe that investing in the fundamentals of programming, algorithms, and design patterns is crucial to becoming a better developer. Exploring and experimenting with new technologies is always a valuable learning opportunity. Having self-confidence and maintaining a critical eye can be challenging, but it leads to greater openness and allows for constant growth and improvement.
 
 <!--
 **edoardovincenzi/edoardovincenzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
